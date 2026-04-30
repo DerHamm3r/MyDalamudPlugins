@@ -14,7 +14,7 @@
             "aida",
             "rico"
         ],
-        "DalamudApiLevel": 14,
+        "DalamudApiLevel": 15,
         "LoadPriority": 0,
         "IconUrl": "https://i.imgur.com/wtOolxu.png",
         "DownloadLinkInstall": "https://github.com/DerHamm3r/MyDalamudPlugins/raw/master/plugins/NMBDoorbell/latest.zip",
